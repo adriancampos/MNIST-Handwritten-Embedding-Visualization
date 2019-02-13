@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "MNIST Handwritten",
+      "tensorShape": [
+        10000,
+        784
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/adriancampos/MNIST-Handwritten-Embedding-Visualization/master/tensors.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/adriancampos/MNIST-Handwritten-Embedding-Visualization/master/labels.tsv"
+    }
+  ]
+}
