@@ -1,4 +1,4 @@
-# MNIST Handwritten Embedding Visualization
+# MNIST Handwritten Digits Embedding Visualization
 
 Playing around with https://projector.tensorflow.org and the MNIST dataset.
 
